@@ -1,0 +1,3 @@
+{"id": UUID("c84dd5a8-bf58-490e-8c8d-4d7badfa368c"), "chatId": UUID("cc864e6e-a2f8-4969-8c82-b6e796063429"), "mitt": "semproniopippo@yahoo.it", "dest": "tiziocaio@gmail.com", "msg": "Primo messaggio di testo", "created": "2021-03-26T19:50:11.386295"}
+{"id": UUID("13c4c846-e0bc-4ad6-9264-0b94a9a4029f"), "chatId": "25e72d24-9801-49d2-a885-2354d132e547", "mitt": "semproniopippo@yahoo.it", "dest": "tiziocaio@gmail.com", "msg": "Secondo messaggio risposta", "created": "2021-03-26T19:50:16.417348"}
+{"id": UUID("dcec5d72-0ec0-4011-b39b-5c6d0c4721c6"), "chatId": UUID("ad480197-951b-4aa7-a07b-b3cc0ad00925"), "mitt": "tiziocaio@gmail.com", "dest": "semproniopippo@yahoo.it", "msg": "Secondo messaggio di altra chat", "created": "2021-03-26T19:50:20.487157"}
